@@ -1,3 +1,6 @@
+// Run: node server.js
+// localhost:8080
+
 var express = require ('express');
 var app = express();
 
