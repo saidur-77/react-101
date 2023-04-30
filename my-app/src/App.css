@@ -1,1 +1,18 @@
+.myApp {
+  margin: 10px;
+}
 
+.nav-elements {
+  list-style: none;
+  display: flex;
+}
+
+.nav-elements > li {
+  padding: 10px;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
